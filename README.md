@@ -41,11 +41,24 @@ This project focuses on predicting rainfall intensity in Bangkalan, Indonesia, u
 * Develop a user-friendly interface for data input and prediction visualization.
 
 **Preview**
-[prediction-page]()
-[data-page]()
-[normalization-page]()
-[feature-selection-page]()
-[evaluation-page]()
+[prediction-page](https://github.com/MuhammadKurniaSani-me/Bangkalan-rainfall-prediction/blob/1450b8cc7b363cb0d6a9b38f7ecf77d6f6f194f0/prediction-page.png)
+
+---
+
+[data-page](https://github.com/MuhammadKurniaSani-me/Bangkalan-rainfall-prediction/blob/1450b8cc7b363cb0d6a9b38f7ecf77d6f6f194f0/data-page.png)
+
+---
+
+[normalization-page](https://github.com/MuhammadKurniaSani-me/Bangkalan-rainfall-prediction/blob/1450b8cc7b363cb0d6a9b38f7ecf77d6f6f194f0/norm-data-page.png)
+
+---
+
+[feature-selection-page](https://github.com/MuhammadKurniaSani-me/Bangkalan-rainfall-prediction/blob/1450b8cc7b363cb0d6a9b38f7ecf77d6f6f194f0/features-selection-page.png)
+
+---
+
+[evaluation-page](https://github.com/MuhammadKurniaSani-me/Bangkalan-rainfall-prediction/blob/1450b8cc7b363cb0d6a9b38f7ecf77d6f6f194f0/evaluation-score-page.png)
+
 
 **Disclaimer**
 
