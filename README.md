@@ -3,6 +3,7 @@
 This project focuses on predicting rainfall intensity in Bangkalan, Indonesia, using historical weather data from the National Weather Station (BMKG).
 
 **Try Yourself**
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bangkalan-rainfall-prediction.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,show_padding,disable_scrolling,show_footer,dark_theme)
 
 **Data**
